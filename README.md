@@ -3,7 +3,6 @@ This project makes use of Python's Tensorflow library to classify whether a wine
 
 ## About the Dataset
 Source: https://archive.ics.uci.edu/ml/datasets/wine+Quality
-
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine.
 
 ## Attribute Information
